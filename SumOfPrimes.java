@@ -2,6 +2,12 @@ package entropy;
 import java.util.Arrays;
 
 public class SummationOfPrimes {
+
+/*
+The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+
+Find the sum of all the primes below two million.
+*/
 	
 	//global array just to keep track of it in this example, 
 	//but you can easily do this within another function.
